@@ -1,2 +1,4 @@
-# Bin-Gen2
-Scrib generador de contraseñas
+### GENERADOR DE BINES
+### CREADO POR GUS
+
+# BIENVENIDO GRACIAS POR APOYAR EL PROYECTO
